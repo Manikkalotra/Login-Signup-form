@@ -22,7 +22,7 @@ export default function AuthForm() {
         {islogin ? (
           <>
             <div className="form">
-              <h2>Login</h2>
+              <h2>Login Form</h2>
               <input type="email" placeholder="Email" />
               <input type="password" placeholder="Password" />
               <a href="#">Forgot Password?</a>
